@@ -4,7 +4,8 @@
   "description": "Convert negative zero to zero",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "release": "np"
   },
   "repository": {
     "type": "git",
