@@ -26,10 +26,6 @@ deneg(-4);
 //=> -4
 ```
 
-## Related
-
-- [is-negative-zero](https://github.com/ljharb/is-negative-zero)
-
 ## License
 
 MIT © [Philihp Busby](https://philihp.com)

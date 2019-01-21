@@ -1,8 +1,11 @@
 import test from "ava";
 import deneg from ".";
+import isNegativeZero from "is-negative-zero";
 
 test("turns negative zero into zero", t => {
-  t.is(deneg(-0), 0);
+  const n = -0;
+  t.true(isNegativeZero(n));
+  t.is(deneg(n), 0);
 });
 
 test("turns positive zero into zero", t => {
@@ -10,7 +13,9 @@ test("turns positive zero into zero", t => {
 });
 
 test("turns negative 0.0 into zero", t => {
-  t.is(deneg(-0.0), 0);
+  const n = -0.0;
+  t.true(isNegativeZero(n));
+  t.is(deneg(n), 0);
 });
 
 test("turns positive 0.0 into zero", t => {
