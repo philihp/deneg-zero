@@ -1,0 +1,27 @@
+{
+  "name": "deneg-zero",
+  "version": "1.0.0",
+  "description": "Convert negative zero to zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philihp/deneg-zero.git"
+  },
+  "keywords": [
+    "negative",
+    "zero",
+    "negative",
+    "zero",
+    "-0",
+    "convert"
+  ],
+  "author": "Philihp Busby",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philihp/deneg-zero/issues"
+  },
+  "homepage": "https://github.com/philihp/deneg-zero#readme"
+}
