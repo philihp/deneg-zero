@@ -1,6 +1,6 @@
 {
   "name": "deneg-zero",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Convert negative zero to zero",
   "main": "index.js",
   "scripts": {
