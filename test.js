@@ -1,6 +1,6 @@
-import test from "ava";
-import deneg from ".";
-import isNegativeZero from "is-negative-zero";
+const test = require('ava');
+const deneg = require('.');
+const isNegativeZero = require('is-negative-zero');
 
 test("turns negative zero into zero", t => {
   const n = -0;
