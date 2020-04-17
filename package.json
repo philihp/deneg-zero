@@ -4,10 +4,10 @@
   "description": "Convert negative zero to zero",
   "main": "index.js",
   "scripts": {
-    "test": "ava",
     "release": "np",
-    "cov": "nyc --reporter=html --reporter=text ava",
-    "coverage": "nyc report --reporter=text-lcov | coveralls"
+    "test:nocoverage": "ava",
+    "test": "nyc ava",
+    "coveralls": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
