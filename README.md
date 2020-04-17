@@ -1,5 +1,6 @@
 # deneg-zero
 
+![npm](https://img.shields.io/npm/v/deneg-zero)
 ![tests](https://github.com/philihp/deneg-zero/workflows/tests/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/philihp/deneg-zero/badge.svg?branch=master)](https://coveralls.io/github/philihp/deneg-zero?branch=master)
 [![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
