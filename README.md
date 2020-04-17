@@ -1,8 +1,8 @@
 # deneg-zero
 
-![NPM Test](https://github.com/philihp/deneg-zero/workflows/NPM%20Test/badge.svg)
-[![Depfu](https://badges.depfu.com/badges/e62c2a4487ecad608eff94c6b99245e7/overview.svg)](https://depfu.com/github/philihp/deneg-zero?project_id=6889)
-[![Coverage Status](https://coveralls.io/repos/github/philihp/deneg-zero/badge.svg?branch=coverage)](https://coveralls.io/github/philihp/deneg-zero?branch=coverage)
+![tests](https://github.com/philihp/deneg-zero/workflows/tests/badge.svg)
+[![Coverage Status](https://coveralls.io/repos/github/philihp/deneg-zero/badge.svg?branch=master)](https://coveralls.io/github/philihp/deneg-zero?branch=master)
+[![Renovate](https://img.shields.io/badge/renovate-enabled-brightgreen.svg)](https://renovatebot.com)
 
 Checks if an integer is [negative zero](http://en.wikipedia.org/wiki/Signed_zero), and converts to positive zero.
 
