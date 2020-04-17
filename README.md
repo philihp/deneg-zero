@@ -1,6 +1,6 @@
 # deneg-zero
 
-[![Build Status](https://travis-ci.org/philihp/deneg-zero.svg?branch=master)](https://travis-ci.org/philihp/deneg-zero) [![npm version](https://badge.fury.io/js/deneg-zero.svg)](https://badge.fury.io/js/deneg-zero)
+![NPM Test](https://github.com/philihp/deneg-zero/workflows/NPM%20Test/badge.svg)
 [![Depfu](https://badges.depfu.com/badges/e62c2a4487ecad608eff94c6b99245e7/overview.svg)](https://depfu.com/github/philihp/deneg-zero?project_id=6889)
 [![Coverage Status](https://coveralls.io/repos/github/philihp/deneg-zero/badge.svg?branch=coverage)](https://coveralls.io/github/philihp/deneg-zero?branch=coverage)
 
