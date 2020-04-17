@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "ava",
-    "release": "np",
-    "coverage": "nyc ava"
+    "test-cov": "nyc ava",
+    "release": "np"
   },
   "repository": {
     "type": "git",
