@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "np",
-    "test": "nyc ava",
-    "test:lcov": "nyc report --reporter=text-lcov"
+    "test": "nyc ava"
   },
   "repository": {
     "type": "git",
