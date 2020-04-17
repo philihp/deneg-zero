@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "ava",
-    "release": "np"
+    "release": "np",
+    "coverage": "nyc ava"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
   "homepage": "https://github.com/philihp/deneg-zero#readme",
   "devDependencies": {
     "ava": "3.7.0",
-    "is-negative-zero": "2.0.0"
+    "is-negative-zero": "2.0.0",
+    "nyc": "^15.0.1"
   }
 }

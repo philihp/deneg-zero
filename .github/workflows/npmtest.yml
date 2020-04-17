@@ -3,7 +3,7 @@
 
 name: NPM Test
 
-on: push
+on: ["push", "pull_request"]
 
 jobs:
   build:
@@ -22,3 +22,8 @@ jobs:
         env:
           CI: true
 
+      - run: npm run test-cov
+      - name: Coveralls
+        uses: coverallsapp/github-action@master
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
