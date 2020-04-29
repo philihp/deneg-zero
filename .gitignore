@@ -1,3 +1,7 @@
 node_modules
 .nyc_output
 coverage
+
+# https://dev.to/gajus/stop-using-package-lock-json-or-yarn-lock-3ddi
+package-lock.json
+
