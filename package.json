@@ -28,6 +28,6 @@
   "devDependencies": {
     "ava": "3.8.2",
     "is-negative-zero": "2.0.0",
-    "nyc": "15.0.1"
+    "nyc": "15.1.0"
   }
 }
