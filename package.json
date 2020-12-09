@@ -27,7 +27,7 @@
   "homepage": "https://github.com/philihp/deneg-zero#readme",
   "devDependencies": {
     "ava": "3.13.0",
-    "is-negative-zero": "2.0.0",
+    "is-negative-zero": "2.0.1",
     "nyc": "15.1.0"
   }
 }
