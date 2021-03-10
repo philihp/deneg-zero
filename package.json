@@ -7,6 +7,7 @@
     "release": "np",
     "test": "nyc ava"
   },
+  "sideEffects": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/philihp/deneg-zero.git"
