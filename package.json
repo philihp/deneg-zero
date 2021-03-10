@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "release": "np",
-    "test": "nyc ava"
+    "test": "jest"
   },
   "sideEffects": false,
   "repository": {
@@ -27,8 +27,12 @@
   },
   "homepage": "https://github.com/philihp/deneg-zero#readme",
   "devDependencies": {
-    "ava": "3.15.0",
     "is-negative-zero": "2.0.1",
-    "nyc": "15.1.0"
+    "jest": "^26.6.3"
+  },
+  "jest": {
+    "modulePathIgnorePatterns": [
+      "dist/"
+    ]
   }
 }
