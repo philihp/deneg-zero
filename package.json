@@ -1,6 +1,6 @@
 {
   "name": "deneg-zero",
-  "version": "4.1.1",
+  "version": "4.2.0",
   "description": "Take your code from negative zero to zero in zero",
   "main": "index.js",
   "scripts": {
