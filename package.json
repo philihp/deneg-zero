@@ -1,7 +1,7 @@
 {
   "name": "deneg-zero",
   "version": "4.1.1",
-  "description": "Convert negative zero to zero",
+  "description": "Take your code from negative zero to zero in zero",
   "main": "index.js",
   "scripts": {
     "release": "np",
