@@ -29,7 +29,7 @@
   "homepage": "https://github.com/philihp/deneg-zero#readme",
   "devDependencies": {
     "is-negative-zero": "2.0.2",
-    "jest": "27.4.3"
+    "jest": "27.4.4"
   },
   "jest": {
     "modulePathIgnorePatterns": [
