@@ -8,6 +8,9 @@
     "test": "jest",
     "test:coverage": "jest --coverage"
   },
+  "files": [
+    "index.js"
+  ],
   "sideEffects": false,
   "repository": {
     "type": "git",
