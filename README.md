@@ -1,8 +1,7 @@
 # deneg-zero
 
-![npm](https://img.shields.io/npm/v/deneg-zero)
-[![Requirements](https://requires.io/github/philihp/deneg-zero/requirements.svg?branch=main)](https://requires.io/github/philihp/deneg-zero/requirements/?branch=main)
-![tests](https://github.com/philihp/deneg-zero/workflows/tests/badge.svg)
+![NPM](https://img.shields.io/npm/v/deneg-zero)
+![Tests](https://github.com/philihp/deneg-zero/workflows/tests/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/philihp/deneg-zero/badge.svg?branch=main)](https://coveralls.io/github/philihp/deneg-zero?branch=main)
 ![Downloads](https://img.shields.io/npm/dt/deneg-zero)
 ![License](https://img.shields.io/npm/l/deneg-zero)
