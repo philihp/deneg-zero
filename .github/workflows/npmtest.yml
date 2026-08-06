@@ -8,10 +8,9 @@ jobs:
     strategy:
       matrix:
         node-version:
-          - 16.x # until 2023-09-11
-          - 18.x # until 2025-04-30
-          - 19.x # until 2023-06-01
           - 20.x # until 2026-04-30
+          - 22.x # until 2027-04-30
+          - 24.x # until 2028-04-30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
